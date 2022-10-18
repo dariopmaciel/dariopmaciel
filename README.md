@@ -26,6 +26,8 @@
   
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 </div> 
+
+![Snake animation](https://github.com/dariopmaciel/dariopmaciel/blob/output/github-contribution-grid-snake.svg)
   
 ##
   
