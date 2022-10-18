@@ -1,16 +1,16 @@
-### Hi there 👋
+## Olá a você que chegou 👋
+### Eu sou o Dario de Paula Maciel
 
-<!--
-**dariopmaciel/dariopmaciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌳📜 Sou graduado em Ciências da Computação 
+- 🌳📜 Sou especialista MBA em Gestão da Qualidade
+- 🌳📜 Sou Especialista de Qualidade Yellow Belt  rumo ao ➡️ Black Belt
+- 🍎 Tenho esperiencia em Controle de Qualidade de Processos Industriais
 
-Here are some ideas to get you started:
+- 💻 Estou migrando para a programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱🔭 Atualmente me dedico a aprender Typescript
+- 🌱🔭 Atualmente me dedico a aprender Dart e Flutter
+ 
+- 👯📱 Atualmente procuro colaborar com projetos mobile Android e IOS
+- 📫 Contate-me no e-mail: dariodepaulamaciel@hotmail.com
+- 😄 Pronomes: ele/dele.
