@@ -2,10 +2,10 @@
 
 - 🌳📜 Sou graduado em Ciências da Computação
 - 🌳📜 MBA em Gestão da Qualidade
-- 🌳📜 Sou Especialista de Qualidade Yellow Belt ➡️ rumo ➡️ Black Belt
-- 🍎 Tenho esperiencia em Controle de Qualidade de Processos Industriais
+- 🌳📜 Especialista de Qualidade Yellow Belt ➡️ rumo ➡️ Black Belt
+- 🍎 Tenho experiencia em Controle de Qualidade de Processos Industriais
 #
-- 🏭🌐💻 Estou migrando para a programação
+- 🏭➡️🌐➡️📱 Busco migrar do conrole industrial para o desenvolvimento Mobile
 - 🌱🔭 Atualmente me dedico a aprender Typescript
 - 🌱🔭 Atualmente me dedico a aprender Dart e Flutter
 #
