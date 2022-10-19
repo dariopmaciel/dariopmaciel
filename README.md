@@ -5,11 +5,10 @@
 - 🌳📜 Especialista de Qualidade Yellow Belt ➡️ rumo ➡️ Black Belt
 - 🍎 Tenho experiencia em Controle de Qualidade de Processos Industriais
 #
-- 🏭➡️🌐➡️📱 Busco migrar do conrole industrial para o desenvolvimento Mobile
+- 🏭 ➡️ 🌐 ➡️ 📱 Busco migrar do conrole industrial para o desenvolvimento Mobile
 - 🌱🔭 Atualmente me dedico a aprender Typescript
 - 🌱🔭 Atualmente me dedico a aprender Dart e Flutter
-#
-- 👯📱 Atualmente procuro colaborar com projetos mobile Android e IOS
+- 👯📱 Procuro colaborar com projetos mobile Android e IOS
 - 📱☝️ Mobile first
 #
 - 📫 Contate-me no e-mail: dariodepaulamaciel@hotmail.com
