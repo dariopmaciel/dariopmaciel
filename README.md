@@ -3,7 +3,7 @@
 - 🌳📜 Sou graduado em Ciências da Computação
 - 🌳📜 MBA em Gestão da Qualidade
 - 🌳📜 Especialista de Qualidade Yellow Belt ➡️ rumo ➡️ Black Belt
-- 🍎   3 Anos de experiencia em Controle de Qualidade de Processos Industriais
+- 🍎   3 Anos de experiencia em controle de qualidade de processos industriais
 #
 - 🏭 ➡️ 🌐 ➡️ 📱 Busco migrar do conrole industrial para o desenvolvimento Mobile
 - 🌱🔭 Atualmente me dedico a aprender Typescript
