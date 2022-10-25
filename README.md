@@ -1,6 +1,6 @@
 ## Olá a você que chegou aqui👋, eu sou o Dario de Paula Maciel
 
-- 🌳📜 Sou graduado em Ciências da Computação
+- 🌳📜 Graduado em Ciências da Computação
 - 🌳📜 MBA em Gestão da Qualidade
 - 🌳📜 Especialista de Qualidade Yellow Belt ➡️ rumo ➡️ Black Belt
 - 🍎   3 Anos de experiencia em controle de qualidade de processos industriais
