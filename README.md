@@ -6,8 +6,8 @@
 - 🍎   3 Anos de experiencia em controle de qualidade de processos industriais
 #
 - 🏭 ➡️ 🌐 ➡️ 📱 Busco migrar do conrole industrial para o desenvolvimento Mobile
-- 🌱🔭 Atualmente me dedico a aprender Typescript
 - 🌱🔭 Atualmente me dedico a aprender Dart e Flutter
+- 🌱🔭 Atualmente me dedico a aprender Typescript
 - 👯📱 Procuro colaborar com projetos mobile Android e IOS
 - 📱☝️ Mobile first
 #
