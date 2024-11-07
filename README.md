@@ -6,7 +6,7 @@
 - 🍎   3 Anos de experiencia em controle de qualidade de processos industriais
 #
 - 🏭 ➡️ 🌐 ➡️ 📱 Migro de Controle de Qualidade Industrial para o desenvolvimento Mobile
-- 🌱🔭 Atualmente me dedico a aprender Dart e Flutter
+- 🌳🍎 Dedicação a Dart e Flutter
 - 🌱🔭 Atualmente me dedico a aprender Typescript
 - 👯📱 Procuro colaborar com projetos mobile Android e IOS
 - 📱☝️ Mobile first
